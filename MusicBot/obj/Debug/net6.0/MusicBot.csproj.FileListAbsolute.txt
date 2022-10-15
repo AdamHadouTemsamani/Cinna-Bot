@@ -13,3 +13,17 @@ c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\obj\Debug\net6.0\ref
 c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\obj\Debug\net6.0\MusicBot.pdb
 c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\obj\Debug\net6.0\MusicBot.genruntimeconfig.cache
 c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\obj\Debug\net6.0\ref\MusicBot.dll
+C:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\bin\Debug\net6.0\Discord.Net.Commands.dll
+C:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\bin\Debug\net6.0\Discord.Net.Core.dll
+C:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\bin\Debug\net6.0\Discord.Net.Interactions.dll
+C:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\bin\Debug\net6.0\Discord.Net.Rest.dll
+C:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\bin\Debug\net6.0\Discord.Net.Webhook.dll
+C:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\bin\Debug\net6.0\Discord.Net.WebSocket.dll
+C:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\bin\Debug\net6.0\System.Interactive.Async.dll
+C:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\bin\Debug\net6.0\Victoria.dll
+C:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\obj\Debug\net6.0\MusicBot.csproj.CopyComplete
