@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qe84zWYaVf5H5QodhyNjA3D3xkCS7pGcapZJKHZLkYI9uD5zkBgex394pwfm6u9NdlpauO1i40wddImYIVUsZw==",
+  "dgSpecHash": "vIRZJ56R/FRnbewdzKQy8A+ygE3u8W/FzzGI95JwlEmVOfQZEAIUSdl7tpdgScqhvWpoqFzgfTumEv9jptyhdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adamh\\OneDrive\\Documents\\GitHub\\Cinna-Bot\\MusicBot.Tests\\MusicBot.Tests.csproj",
+  "projectFilePath": "c:\\Users\\Adamh\\OneDrive\\Documents\\GitHub\\Cinna-Bot\\MusicBot.Tests\\MusicBot.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adamh\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Adamh\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

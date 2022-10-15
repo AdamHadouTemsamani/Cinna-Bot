@@ -1,0 +1,15 @@
+c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\bin\Debug\net6.0\MusicBot.exe
+c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\bin\Debug\net6.0\MusicBot.deps.json
+c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\bin\Debug\net6.0\MusicBot.runtimeconfig.json
+c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\bin\Debug\net6.0\MusicBot.dll
+c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\bin\Debug\net6.0\MusicBot.pdb
+c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\obj\Debug\net6.0\MusicBot.csproj.AssemblyReference.cache
+c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\obj\Debug\net6.0\MusicBot.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\obj\Debug\net6.0\MusicBot.AssemblyInfoInputs.cache
+c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\obj\Debug\net6.0\MusicBot.AssemblyInfo.cs
+c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\obj\Debug\net6.0\MusicBot.csproj.CoreCompileInputs.cache
+c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\obj\Debug\net6.0\MusicBot.dll
+c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\obj\Debug\net6.0\refint\MusicBot.dll
+c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\obj\Debug\net6.0\MusicBot.pdb
+c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\obj\Debug\net6.0\MusicBot.genruntimeconfig.cache
+c:\Users\Adamh\OneDrive\Documents\GitHub\Cinna-Bot\MusicBot\obj\Debug\net6.0\ref\MusicBot.dll

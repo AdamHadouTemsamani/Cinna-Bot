@@ -1,8 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "KKoZig5L8DVJkfkUZD54+MY9dzxvvGj51xzXgFqmabOI9lwZzzGZVFdjfmzA8sfmZeG/5B/uOpQSnEdAKtFzqg==",
+  "dgSpecHash": "u/RVoeSeIEkHDPYg7rj6nPzALc5eb9ue8u2x1ylbgmzINGx38NmdnSRFBeKpcZcaMn90VIUhqRNqQv0UxeCjNQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Adamh\\OneDrive\\Documents\\GitHub\\Cinna-Bot\\MusicBot\\MusicBot.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Adamh\\.nuget\\packages\\discord.net\\3.8.1\\discord.net.3.8.1.nupkg.sha512",
+    "C:\\Users\\Adamh\\.nuget\\packages\\discord.net.commands\\3.8.1\\discord.net.commands.3.8.1.nupkg.sha512",
+    "C:\\Users\\Adamh\\.nuget\\packages\\discord.net.core\\3.8.1\\discord.net.core.3.8.1.nupkg.sha512",
+    "C:\\Users\\Adamh\\.nuget\\packages\\discord.net.interactions\\3.8.1\\discord.net.interactions.3.8.1.nupkg.sha512",
+    "C:\\Users\\Adamh\\.nuget\\packages\\discord.net.rest\\3.8.1\\discord.net.rest.3.8.1.nupkg.sha512",
+    "C:\\Users\\Adamh\\.nuget\\packages\\discord.net.webhook\\3.8.1\\discord.net.webhook.3.8.1.nupkg.sha512",
+    "C:\\Users\\Adamh\\.nuget\\packages\\discord.net.websocket\\3.8.1\\discord.net.websocket.3.8.1.nupkg.sha512",
+    "C:\\Users\\Adamh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Adamh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Adamh\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\Adamh\\.nuget\\packages\\system.interactive.async\\5.0.0\\system.interactive.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\Adamh\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\Adamh\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\Adamh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Adamh\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Adamh\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512",
+    "C:\\Users\\Adamh\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Adamh\\.nuget\\packages\\victoria\\5.2.8\\victoria.5.2.8.nupkg.sha512"
+  ],
   "logs": []
 }
